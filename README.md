@@ -14,5 +14,8 @@ This project is a UI clone of the popular WhatsApp messenger application, built 
 - WhatsApp-like styling and theming
 
 ## Demo
+https://github.com/user-attachments/assets/4334ebc6-cb5c-4b1d-b5e4-cf01c120efb6
 
-Check out the demo video in the [v1.0 release](https://github.com/Tarik-Lotfy/Whatsapp-clone/releases/tag/v1.0) (demo.mp4)
+<video src="
+https://github.com/user-attachments/assets/4334ebc6-cb5c-4b1d-b5e4-cf01c120efb6" controls="controls" style="max-width: 730px;">
+</video>
