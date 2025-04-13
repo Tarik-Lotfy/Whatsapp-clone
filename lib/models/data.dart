@@ -6,8 +6,8 @@ List<ChatModel> chatData = [
     message: " صلاح ده روبوت",
     time: "11:48",
     avatarUrl: "assets/images/Youssef Twakal.jpg",
-    hasUnread: true,
-    unreadCount: 13,
+    isRead: false,
+    unreadCount: 20,
   ),
   ChatModel(
     name: "Salah Tamer",
@@ -16,6 +16,7 @@ List<ChatModel> chatData = [
     avatarUrl: "assets/images/Salah Tamer.jpg",
     unreadCount: 32,
     hasUnread: true,
+    isRead: false,
   ),
   ChatModel(
     name: "Eslam Osama",
@@ -24,6 +25,7 @@ List<ChatModel> chatData = [
     avatarUrl: "assets/images/Eslam Osama.jpg",
     unreadCount: 2,
     hasUnread: true,
+    isRead: false,
   ),
   ChatModel(
     name: "Youssef Rezk",
